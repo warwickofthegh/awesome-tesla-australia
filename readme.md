@@ -2,27 +2,53 @@
 
 > A curated list of links and tips for owning a Tesla in Australia
 
-
-## Contents
+# Contents
 
 - [Section](#section)
 - [Another Section](#another-section)
 
+# Official
 
-## Section
+- [Tesla](https://www.tesla.com/en_au/) - Tesla Australia
+- [Tesla Service](https://service.tesla.com/) - Tesla Service Options 
+- [VIN Recall Search](https://service.tesla.com/vin-recall-search) - Search on your VIN to see outstanding recall notices
 
-About this section. Optional. Keep this short and focus on the list.
+# Communities
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Clubs
 
+- [Tesla Owners Club Directory](https://engage.tesla.com/pages/clubs) - Offical directory of owners clubs globally
+- [Tesla Owners Club Australia](https://www.teslaowners.org.au/) - Offical owners club of Australia, with state branches
+## Forums / Groups
 
-## Another Section
+- [Tesla Motor Club](https://teslamotorsclub.com/tmc/forums/australia.129/) - Unoffiical global forum with Australia Section
+- [Tesla Owners Online](https://teslaownersonline.com/) - Tesla Owners Forum
+- [TOCA Offical](https://www.facebook.com/groups/teslaownersau/) - Tesla Owners Club Australia Facebook Group
 
-### Subsection
+# Repairers & Service
+# Apps
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Charging
+
+- [Tesla Find Us Map](https://www.tesla.com/findus) - Official Tesla Map, Overlayed Chargers and Service Centers
+- [A Better Route Planner (ABRP)](https://abetterrouteplanner.com/) - Smart route planner supporting Tesla and 3rd Party Chargers
+## Analytics
+
+- [Teslafi](https://about.teslafi.com/) - Data Logging Trip and Car Analytics ($50usd/y)
+
+## Control
+
+- [TezLab](https://tezlabapp.com/) - App control and analytics ($6usd/m)
+# Parts & Accessories
+
+# Tips and Notes
+
+## Charging
+## Tinting
+
+## Common Issues
+
+## Repairs and Service
 
 
 ## Contribute
