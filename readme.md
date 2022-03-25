@@ -3,13 +3,12 @@
 > A curated list of links and tips for owning a Tesla in Australia
 
 # Contents
-- [Section](#section)
-- [Another Section](#another-section)
 - [Official](#official)
 - [Communities](#communities)
 - [Media](#media)
 - [Apps](#apps)
-- [Parts & Accessories](#parts-accessories)
+- [Repairers & Service](#repairers--service)
+- [Parts & Accessories](#parts--accessories)
 - [Tips and Notes](#tips-and-notes)
 - [Contribute](#contribute)
 
@@ -35,7 +34,9 @@
 
 https://www.youtube.com/channel/UCww_ufRfWgEcmCMJuTMU9XQ/videos
 
-# Repairers & Service
+## Electric Vehicle Sites
+
+- [EVMojo](https://evmojo.com/) - Tips, Products reviews
 
 # Apps
 
@@ -44,13 +45,15 @@ https://www.youtube.com/channel/UCww_ufRfWgEcmCMJuTMU9XQ/videos
 - [A Better Route Planner (ABRP)](https://abetterrouteplanner.com/) - Smart route planner supporting Tesla and 3rd Party Chargers
 - Plugshare
 - CHargefox
-- 
+
 ## Analytics
 - [Teslafi](https://about.teslafi.com/) - Data Logging Trip and Car Analytics ($50usd/y)
 - [TeslaScope](https://teslascope.com/)
 
 ## Control
 - [TezLab](https://tezlabapp.com/) - App control and analytics ($6usd/m)
+
+# Repairers & Service
 
 # Parts & Accessories
 
@@ -60,11 +63,21 @@ https://www.youtube.com/channel/UCww_ufRfWgEcmCMJuTMU9XQ/videos
 ## Consumables
 - [Tesla](https://shop.tesla.com/en_au/product/model-3-air-filter) - Tesla Official Consumables
 
-
 ## Accessories
-https://www.aliexpress.com/
-hillsmade
-https://www.rvinyl.com/2022-Tesla-Model-3-Paint-Protection-Kits
+- [Tesla](https://shop.tesla.com/en_au/category/vehicle-accessories/model-3) - Official Tesla Accessories
+- [Aliexpress](https://www.aliexpress.com) - Cheap, Ships from China
+- [Tesla Model Accessories](https://teslamodelaccessories.com.au/) - Australian based accessories, large range
+- [Tessories](https://tessories.com.au/) - Australian based with a large range
+- [Tesloz](https://tesloz.com.au/collections/model-3) - Australian based, standard range of accessories
+- [Txsla Pro](https://www.txslapro.com.au/) - Australia based, variety of products and accessories
+- [Tesmanian](https://www.tesmanian.com/collections/tesla-model-3-accessories) - US Based but easy shipping to AUS, great range
+- [RPM Tesla](https://www.rpmtesla.com/) - Large range of accessoris, based in USA
+- [Hillsmade](https://hillsmade.com/en-au) - Quality accessories, with a range of unique offerings
+- [Evannex](https://evannex.com/collections/tesla-model-3-accessories) - USA Based supplier of many upgrade parts
+- [Etsy](https://www.etsy.com/au/market/tesla_accessories) - Lots of randon, unique accessories
+- [Ebay](https://www.ebay.com.au/sch/i.html?_from=R40&_trksid=p2322090.m570.l1313&_nkw=Tesla+Model+3&_sacat=0) - Lots of randon parts and accessories
+- [FitMyCar](https://www.fitmycar.com.au/tesla) - car mats and similar accessories, Australian based
+- [RVinyl](https://www.rvinyl.com/2022-Tesla-Model-3-Paint-Protection-Kits) - Paint Protection Keys (PPF)
 
 # Tips and Notes
 
@@ -75,6 +88,7 @@ https://www.rvinyl.com/2022-Tesla-Model-3-Paint-Protection-Kits
 ## Charging
 - LFP Battery in RWD should be charged to 100% daily to maintain battery health
 - Cables: Rearly will you need to bring cable for public chargers, and Caravan parks often have 3phase plugs
+- Home: 10amp ok for nightly, 15amp slightly more to ensure full charge. Or 32amp via mobile charger or Tesla Wall Charger
 
 ## Insurance
 - Choice of Repairer: Preferrable, though will generally have to end up at an Tesla Approved repairer to get access to parts and repair tools
@@ -108,10 +122,15 @@ https://www.rvinyl.com/2022-Tesla-Model-3-Paint-Protection-Kits
 
 ## Service
 - Yearly Checks
-  - Cabin Air Filter
-  - Break Pads
-  - Washer Fluid
-  - Tyre Wear
+  - Cabin Air Filter (Change every 2 years)
+  - Tyre Rotation (Every 10k kms, cross over back-to-front wheel when swapping)
+  - Break Pads (Replace if needed)
+  - Washer Fluid (Top up)
+  - Tyre Wear (Replace if needed - should get 50k kms with standard wear)
+- Other
+  - Wheel Alignment: with New tyre fitting or if issues being noticed
+  - Wash Body: Regularly
+  - Clean Interior: Reguarly
 
 ## Home Assistant Integration
 - [Tesla](https://github.com/alandtse/tesla) - Github repo for the community fork of Tesla Home Assistation Custom Integration
