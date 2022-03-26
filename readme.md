@@ -39,34 +39,36 @@ https://www.youtube.com/channel/UCww_ufRfWgEcmCMJuTMU9XQ/videos
 - [EV Central](https://evcentral.com.au/) - Will Hagan's venture, reviews and news from the industry
 - [EVMojo](https://evmojo.com/) - Tips, Products reviews
 
-# Apps
+## Apps
 
-## Charging
+### Charging
 - [Tesla Find Us Map](https://www.tesla.com/findus) - Official Tesla Map, Overlayed Chargers and Service Centers
 - [A Better Route Planner (ABRP)](https://abetterrouteplanner.com/) - Smart route planner supporting Tesla and 3rd Party Chargers
 - Plugshare
 - CHargefox
 
-## Analytics
+### Analytics
 - [Teslafi](https://about.teslafi.com/) - Data Logging Trip and Car Analytics ($50usd/y)
 - [TeslaScope](https://teslascope.com/)
 
-## Control
+### Control
 - [TezLab](https://tezlabapp.com/) - App control and analytics ($6usd/m)
 
-# Repairers & Service
+## Repairers & Service
 
-# Parts & Accessories
+## Parts & Accessories
 
-## Tyres
-- []() - Tesla O
+### Tyres
+- [Tyresales](https://www.tyresales.com.au/) - Large Online sell, ships to local fitter (Owned by Carsales)
 
-## Consumables
+### Consumables
 - [Tesla](https://shop.tesla.com/en_au/product/model-3-air-filter) - Tesla Official Consumables
 
-## Accessories
+### Accessories
 - [Tesla](https://shop.tesla.com/en_au/category/vehicle-accessories/model-3) - Official Tesla Accessories
 - [Aliexpress](https://www.aliexpress.com) - Cheap, Ships from China
+- [Amazon (AU)](https://www.amazon.com.au/s?k=tesla) - Large range from many sellers as you would expect from Amazon
+- [Amazon (USA)](https://www.amazon.com/s?k=Tesla) - Large range from many sellers as expected from Amazon
 - [Tesla Model Accessories](https://teslamodelaccessories.com.au/) - Australian based accessories, large range
 - [Tessories](https://tessories.com.au/) - Australian based with a large range
 - [Tesloz](https://tesloz.com.au/collections/model-3) - Australian based, standard range of accessories
@@ -80,23 +82,23 @@ https://www.youtube.com/channel/UCww_ufRfWgEcmCMJuTMU9XQ/videos
 - [FitMyCar](https://www.fitmycar.com.au/tesla) - car mats and similar accessories, Australian based
 - [RVinyl](https://www.rvinyl.com/2022-Tesla-Model-3-Paint-Protection-Kits) - Paint Protection Keys (PPF)
 
-# Tips and Notes
+## Tips and Notes
 
-## Car Controls
+### Car Controls
 - Reset Screen Computer: Both steering wheel buttons until screen goes blank
 - Hare Reset Computer: Hold Break down + both steering wheel buttons until screen goes blank
 
-## Charging
+### Charging
 - LFP Battery in RWD should be charged to 100% daily to maintain battery health
 - Cables: Rearly will you need to bring cable for public chargers, and Caravan parks often have 3phase plugs
 - Home: 10amp ok for nightly, 15amp slightly more to ensure full charge. Or 32amp via mobile charger or Tesla Wall Charger
 
-## Insurance
+### Insurance
 - Choice of Repairer: Preferrable, though will generally have to end up at an Tesla Approved repairer to get access to parts and repair tools
 - Windscreen & Glass: Preferrable, no 3rd party suppliers of glass currently, and Tesla Charge $1000+ for replacement
 - Hire Car: Preferrable, Tesla repair can be significantly delayed due to parts availability, hire care may be need during wait if not safe to drive
 
-## Tyres
+### Tyres
 - Stock: Michelin Pilot Sport 4 (TO)- Great tyre, though expensive at $350+ each, Acoustic version with foam insert
 - Size: 235/45ZR18 98Y
 - Options:
@@ -107,21 +109,21 @@ https://www.youtube.com/channel/UCww_ufRfWgEcmCMJuTMU9XQ/videos
   - Pirelli P ZERO PZ4 Elec - Accoustic Pirelli with foam insert
   - Bridgestone Potenza RE0003 - Value type, slight higher road noise
 
-## Consumables
+### Consumables
 - Cabin Air Filter: Replace yearly, two cabin filters required per change
 - Wiper Blades: Replace as needed
 
-## Tinting
+### Tinting
 - Darkness: State restrictions apply, generally 35% front-side windows, 20% rear-side and rear and upper front
 - Type: Nano Ceramic generally seen as best for heat reflection and UV filtering
 - Rear Windows: Old USA vesion cars had issues if tint, no longer the case for Giga Shangahi versions, should be tinted in 1 piece for best appearance
 - [Acutint Pro - Tesla Model 3 Viewer](https://www.acutintpro.com/tesla-model-3-viewer) - Images of different tints applied to a Model 3
 
-## Common Issues
+### Common Issues
 - Tesla quiality of build has greatly improved expecially in Giga Shanghai build cars, there are now no common issues
 - Recalls are occasionaly put in place and will be performed is not urgent at next check-up or can be booked in
 
-## Service
+### Service
 - Yearly Checks
   - Cabin Air Filter (Change every 2 years)
   - Tyre Rotation (Every 10k kms, cross over back-to-front wheel when swapping)
@@ -132,11 +134,21 @@ https://www.youtube.com/channel/UCww_ufRfWgEcmCMJuTMU9XQ/videos
   - Wheel Alignment: with New tyre fitting or if issues being noticed
   - Wash Body: Regularly
   - Clean Interior: Reguarly
+- [Tesla - Annual Service Inspection Checklist](https://www.tesla.com/sites/default/files/service/annual_service_inspection_checklist_en_eu.pdf) - Official List from Tesla for 1,2,3,4 year periods
 
-## Home Assistant Integration
+### Delivery Checklist
+
+- More commonly used before quality improvements were made, especially in Giga Shanghai models
+- Tesla will say accept delivery of car and you'll have 7 days to log any issues via a service appointment, though it may be possible for them to argue external defects were caused in that 7 day period, so always best to do a quick once over before accepting, or log on the day before leaving at least
+- Many checklists available to utilise when running over the car
+  - [Tesla Prep](https://teslaprep.glideapp.io/) - Mobile App with item to tick off as you go (last updated 2021)
+  - [Accessories for Tesla - Delivery Day Checklist](https://www.accessoriesfortesla.com/post/tesla-delivery-day-checklist-2021) - Another updated late 2021)
+  - [Tesla Owners UK](https://teslaowners.org.uk/kb/new-car-collection-checklist) - New Car Collection Checklist
+
+### Home Assistant Integration
 - [Tesla](https://github.com/alandtse/tesla) - Github repo for the community fork of Tesla Home Assistation Custom Integration
 - Offical integration was remoted due to issues with authentication tokens, now community maintained fork available
 
-# Contribute
+## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
