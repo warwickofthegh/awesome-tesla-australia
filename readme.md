@@ -2,7 +2,7 @@
 
 > A curated list of links and tips for owning a Tesla in Australia
 
-# Contents
+## Contents
 - [Official](#official)
 - [Communities](#communities)
 - [Media](#media)
@@ -15,6 +15,14 @@
 ## Official
 - [Tesla](https://www.tesla.com/en_au/) - Tesla Australia
 - [Tesla Service](https://service.tesla.com/) - Tesla Service Options 
+
+### Resources
+- [Model 3 Owners Manual](https://www.tesla.com/ownersmanual/model3/en_au/) - Full Digital Owners Manual
+- [Model 3 Support Videos](https://www.tesla.com/en_AU/support/model-3-videos) - Basic intros to using the car
+- [Model 3 Do It Yourself (DIY)](https://www.tesla.com/support/do-it-yourself-model-3?redirect=no) - Baisc procedures and maintenance processes
+- [Car Maintenance](https://www.tesla.com/en_AU/support/car-maintenance) - Guide and instructions for car maintenance
+- [New Vehicle Limited Warranty](https://www.tesla.com/en_AU/support/vehicle-warranty) - Warranty Details for all models
+- [Model 3 Emergency Response Guide (PDF)](https://www.tesla.com/sites/default/files/downloads/2017_Model_3_Emergency_Response_Guide_en.pdf) - Incase of Emergency
 - [VIN Recall Search](https://service.tesla.com/vin-recall-search) - Search on your VIN to see outstanding recall notices
 
 ## Communities
@@ -135,6 +143,7 @@ https://www.youtube.com/channel/UCww_ufRfWgEcmCMJuTMU9XQ/videos
   - Wash Body: Regularly
   - Clean Interior: Reguarly
 - [Tesla - Annual Service Inspection Checklist](https://www.tesla.com/sites/default/files/service/annual_service_inspection_checklist_en_eu.pdf) - Official List from Tesla for 1,2,3,4 year periods
+- [Tesla - Car Maintenance](https://www.tesla.com/en_AU/support/car-maintenance) - Guide and instructions for car maintenance
 
 ### Delivery Checklist
 
