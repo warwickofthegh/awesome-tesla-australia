@@ -127,6 +127,12 @@ https://www.youtube.com/channel/UCww_ufRfWgEcmCMJuTMU9XQ/videos
 - Rear Windows: Old USA vesion cars had issues if tint, no longer the case for Giga Shangahi versions, should be tinted in 1 piece for best appearance
 - [Acutint Pro - Tesla Model 3 Viewer](https://www.acutintpro.com/tesla-model-3-viewer) - Images of different tints applied to a Model 3
 
+### Windscreen Washer Fluid
+- Tesla recommend not using any product promoted a bug cleaner as it may streak and cause noise
+- Water: use demineralised water to ensure windscreen and wiper blades are kept in best condition
+- Addative: Use a addative which is free of harsh chemical and is lubricating to the wiper blades
+  - [Bowdens's Own - Wipe Out](https://www.bowdensown.com.au/wipe-out) - Recommended addative 
+
 ### Common Issues
 - Tesla quiality of build has greatly improved expecially in Giga Shanghai build cars, there are now no common issues
 - Recalls are occasionaly put in place and will be performed is not urgent at next check-up or can be booked in
