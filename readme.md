@@ -36,6 +36,12 @@
 - [Tesla Owners Online](https://teslaownersonline.com/) - Tesla Owners Forum
 - [TOCA Offical](https://www.facebook.com/groups/teslaownersau/) - Tesla Owners Club Australia Facebook Group
 
+## Rental / Test Drives
+
+https://www.evee.com.au/
+hertz
+Tesla
+
 ## Media
 
 ### Youtube Channels
@@ -57,10 +63,18 @@ https://www.youtube.com/channel/UCww_ufRfWgEcmCMJuTMU9XQ/videos
 
 ### Analytics
 - [Teslafi](https://about.teslafi.com/) - Data Logging Trip and Car Analytics ($50usd/y)
-- [TeslaScope](https://teslascope.com/)
+- [TeslaScope](https://teslascope.com/) - Data Logging Trip and Car Analytics ($3usd/m)
+- [Teslamate](https://github.com/adriankumpf/teslamate) - Self hosted Tesla data logging service
 
 ### Control
+- https://play.google.com/store/apps/details?id=com.teslamotors.tesla - Official Tesla Mobile App
 - [TezLab](https://tezlabapp.com/) - App control and analytics ($6usd/m)
+- Tessie - https://play.google.com/store/apps/details?id=io.tessie.app
+- https://appadvice.com/app/automate-for-tesla/1382111619 - Apple iOS Only
+- https://www.nikolaapp.com/ - Apple iOS Only
+- https://www.maadotaa.com/ - Apple iOS Only
+- http://www.visibletesla.com/ - 
+- https://play.google.com/store/apps/details?id=com.sg57.tesladashboard - 
 
 ## Repairers & Service
 
@@ -89,6 +103,10 @@ https://www.youtube.com/channel/UCww_ufRfWgEcmCMJuTMU9XQ/videos
 - [Ebay](https://www.ebay.com.au/sch/i.html?_from=R40&_trksid=p2322090.m570.l1313&_nkw=Tesla+Model+3&_sacat=0) - Lots of randon parts and accessories
 - [FitMyCar](https://www.fitmycar.com.au/tesla) - car mats and similar accessories, Australian based
 - [RVinyl](https://www.rvinyl.com/2022-Tesla-Model-3-Paint-Protection-Kits) - Paint Protection Keys (PPF)
+
+## Developer
+
+- https://tesla-api.timdorr.com/ - Unoffical Owner-API Documetation
 
 ## Tips and Notes
 
@@ -150,6 +168,16 @@ https://www.youtube.com/channel/UCww_ufRfWgEcmCMJuTMU9XQ/videos
   - Clean Interior: Reguarly
 - [Tesla - Annual Service Inspection Checklist](https://www.tesla.com/sites/default/files/service/annual_service_inspection_checklist_en_eu.pdf) - Official List from Tesla for 1,2,3,4 year periods
 - [Tesla - Car Maintenance](https://www.tesla.com/en_AU/support/car-maintenance) - Guide and instructions for car maintenance
+
+### Ordering A New Tesla
+- Process: 
+  - Place Order and Pay deposit (this just puts you in the queue - cars aren't made to order, they make in batches for expected demand for each models)
+  - Complete initial financing details and potential registration details
+  - Once a Vehicle is assigned/place on a ship that matches your configuration and your number in queue comes up you'll be assigned the VIN and a more defined estiamted delivery date - VIN after often assigned before you are notified and can be discovery using a browser plugin via the Tesla Portal using [Tesla VIN Finder](https://chrome.google.com/webstore/detail/tesla-vin-finder/cjhgdbmohmlomkjgbgkcbknncblpfanf)
+  - Once Car has landed in country you'll be contacted to arrange delivery or pickup date and time
+  - A week before pickup or delivery final payment is required or finance finalaised
+  - Pick-up and enjoy!
+- Tracking Order is possible once you have a VIN assigned. There are ways to discover which ship the VIN is on and subsequent tracking to delivery location. You can utilise [VedaPrime](https://vedaprime.net.au/) serivice to discover how
 
 ### Delivery Checklist
 
