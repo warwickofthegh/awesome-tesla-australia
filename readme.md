@@ -25,6 +25,11 @@
 - [Model 3 Emergency Response Guide (PDF)](https://www.tesla.com/sites/default/files/downloads/2017_Model_3_Emergency_Response_Guide_en.pdf) - Incase of Emergency
 - [VIN Recall Search](https://service.tesla.com/vin-recall-search) - Search on your VIN to see outstanding recall notices
 
+### Non-Offiical
+
+- [EV Specifications - Tesla](https://www.evspecifications.com/en/brand/b1e92) - Car Specs
+
+
 ## Communities
 
 ### Clubs
@@ -36,17 +41,15 @@
 - [Tesla Owners Online](https://teslaownersonline.com/) - Tesla Owners Forum
 - [TOCA Offical](https://www.facebook.com/groups/teslaownersau/) - Tesla Owners Club Australia Facebook Group
 
-## Rental / Test Drives
-
-https://www.evee.com.au/
-hertz
-Tesla
-
 ## Media
 
 ### Youtube Channels
 
-https://www.youtube.com/channel/UCww_ufRfWgEcmCMJuTMU9XQ/videos
+- [Ludicrous Feed](https://www.youtube.com/channel/UC2TWeqcaGYMobKoHiMtQNHQ) - Tesla Tom with review, entertainment and industry interviews (Australia)
+- [Not in the Manual](https://www.youtube.com/channel/UC0pUKOFlzQy2SyRhjQm1FLw) - Technical Reviews and Analysis (Australia)
+- [Tesla in the Gong](https://www.youtube.com/c/TeslaInTheGong) - Review, information and tips (Australia)
+- [Tesla Straya](https://www.youtube.com/c/TeslaStraya) - Reivews and infromation (Australia)
+- [SydneyEV](https://www.youtube.com/c/SydneyEV) - Information, Reviews and Tips (Australia) 
 
 ### Electric Vehicle Sites
 
@@ -75,6 +78,12 @@ https://www.youtube.com/channel/UCww_ufRfWgEcmCMJuTMU9XQ/videos
 - https://www.maadotaa.com/ - Apple iOS Only
 - http://www.visibletesla.com/ - 
 - https://play.google.com/store/apps/details?id=com.sg57.tesladashboard - 
+
+### Rental / Test Drives
+
+https://www.evee.com.au/
+hertz
+Tesla
 
 ## Repairers & Service
 
@@ -107,6 +116,60 @@ https://www.youtube.com/channel/UCww_ufRfWgEcmCMJuTMU9XQ/videos
 ## Developer
 
 - https://tesla-api.timdorr.com/ - Unoffical Owner-API Documetation
+
+## Detailing
+
+### Resources
+
+#### Media
+
+- [Focus On Detailing (Youtube)](https://www.youtube.com/channel/UCOzElwBPjlICQgcEujg7XFg) - Detailing product reviews and tips (Australia)
+- [Car Craft Auto Detailing](https://www.youtube.com/c/CarCraftAutoDetailing) - Detailing POV, reviews, tests and information (Australia)
+- [Clean Getaway Car Detailing](https://www.youtube.com/channel/UCFExYU2cWvcDvV9pSiWBNRQ) - Information (Australia)
+- [Pan the Organizer](https://www.youtube.com/c/PanTheOrganizer) - Reivew and Explainations, Awards and Tests (USA)
+
+### Supplies
+
+- [WAXIT](https://www.waxit.com.au/) - Industry supplier for quiality products 
+
+### Process
+
+#### Clean (Wash)
+1 - Foam no touch wash
+- Remove bulk grime to not rub into surface in mitt wash
+2 - Mitt Wash
+- Two bucks (wash, clean) - dip wash, dip clean squeeze out not back into clean)
+- Wheel before body, seperate mitt
+
+#### Decontamination
+1 - Iron remover spray
+- Oxidants which break down clear coat over time 
+2 - Clay Bar (mitt/pad)
+- Remove defects and grime, use with lubricant, straight motions, wash after 
+
+#### Correction
+1 - Compound Cut
+- Removes swirls and defects, cut layer away
+- Using Polish machine on medium speed in straight strokes, cross-hatch pattern, 5 or so passes 
+2 - Polish
+- Fine finish and shine
+- Using polish machine on medium speed on straight strokes, cross-hatch pattern, 5 or so passes
+3 - Paint Prep (IPA Wipe)
+- Remove all residue and all other crap from polishing ready for sealant
+
+#### Protection
+Option 1 - Waxes (Last 2-3 Months)
+- Easy to apply and finish, deep slick gloss warm look
+Option 2 - Sealant (Last 5-6 Months)
+- Modern super hydrophoic spray sealants, can also be used over wax
+Option 3 - Ceramic (Lasts 2+ Years)
+- Can't apply over wax, can apply sealant overtop to improve hydrophobic properties and reduce water spotting
+- Maintenance ceramic sprays and maintain quality
+Option 4 - Graphine (Lasts 2+ Years)
+- Reduced water spot over cermamic
+- Booster spray to maintain properties, sprays a diluted form of small glass bottles
+- Small bottles have flashing and curing times
+- 30ml is about 2 coats for 2 cars
 
 ## Tips and Notes
 
